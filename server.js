@@ -24,7 +24,7 @@ app.use(express.json());
 // Ruta de bienvenida
 app.get("/", (req, res) => {
   res.json({
-    mensaje: "🔥 Bienvenido a la API de Demon Slayer",
+    mensaje: "Bienvenido a la API de ACANE",
     endpoints: {
       personajes: "/api/personajes",
       personajePorId: "/api/personajes/:id"
@@ -39,7 +39,7 @@ app.use("/api/personajes", personajesRoutes);
 // Iniciar servidor
 const PORT = 3000;
 app.listen(PORT, () =>
-  console.log(`🔥 API Demon Slayer corriendo en http://localhost:${PORT}`)
+  console.log(`API Demon Arcane corriendo en http://localhost:${PORT}`)
 );
 
 export default app;
