@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "nombre": "Vi",
+      "habilidadPrincipal": "Fuerza Bruta / Guantes Hextech",
+      "maxPoder": "Guantes Atlas",
+      "rango": "Agente de Cumplimiento (Piltover)",
+      "genero": "Femenino",
+      "descripcion": "Una luchadora callejera de Zaun, protectora de su hermana Jinx. Tras un trágico evento, termina colaborando con Piltover. Es impulsiva, pero profundamente leal y protectora.",
+      "img": "https://fortnite-api.com/images/cosmetics/br/cid_a_329_athena_commando_f_uproar_i5n5z/featured.png",
+      "afiliacion": "Zaun (Pasado) / Piltover (Presente)"
+    },
+    {
+      "id": 2,
+      "nombre": "Jinx (Powder)",
+      "habilidadPrincipal": "Caos / Armamento Artesanal",
+      "maxPoder": "Armamento Super-Mega-Mortal",
+      "rango": "Criminal Subterráneo",
+      "genero": "Femenino",
+      "regaloFavorito": "Amatista, Puf de Mora",
+      "descripcion": "Hermana menor de Vi. Su fragilidad emocional y su talento para la invención la llevaron a la locura y al servicio de Silco. Es una experta en explosivos y la personificación del caos.",
+      "img": "https://i.postimg.cc/WzyjdhNv/jinx-bg-preview.png",
+      "afiliacion": "Zaun / El Subsuelo"
+    },
+    {
+      "id": 3,
+      "nombre": "Jayce Talis",
+      "habilidadPrincipal": "Manipulación Hextech",
+      "maxPoder": "Martillo Hextech",
+      "rango": "Consejero / Inventor de Piltover",
+      "genero": "Masculino",
+      "descripcion": "Un brillante inventor conocido como 'El Defensor del Mañana'. Co-descubridor de la tecnología Hextech. Lucha con el balance entre el progreso científico y la política de Piltover.",
+      "img": "https://i.postimg.cc/1zGdk4bS/530ajm9qnly71.png",
+      "afiliacion": "Piltover / Academia de Piltover"
+    },
+    {
+      "id": 4,
+      "nombre": "Viktor",
+      "habilidadPrincipal": "Científico Brillante / Robótica",
+      "maxPoder": "Augmentaciones Químicas (por venir)",
+      "rango": "Inventor de Piltover",
+      "genero": "Masculino",
+      "descripcion": "El compañero de investigación de Jayce, originario de Zaun. Busca la 'Gloriosa Evolución' para curar su enfermedad terminal, lo que lo lleva por un camino moralmente ambiguo. Es metódico y desesperado.",
+      "img": "https://i.postimg.cc/7L44Jvkh/viktor-preview.png",
+      "afiliacion": "Zaun (Origen) / Piltover (Trabajo)"
+    },
+    {
+      "id": 5,
+      "nombre": "Caitlyn Kiramman",
+      "habilidadPrincipal": "Tiro de Precisión / Investigación",
+      "maxPoder": "Rifle de Francotirador Hextech",
+      "rango": "Agente de Cumplimiento (Piltover)",
+      "genero": "Femenino",
+      "descripcion": "Heredera de una de las casas ricas de Piltover. Se convierte en Agente de Cumplimiento, decidida a exponer la corrupción. Forma una alianza incómoda con Vi para investigar el Subsuelo.",
+      "img": "https://i.postimg.cc/pT13Z4gm/caytlin-removebg-preview.png",
+      "afiliacion": "Piltover / Clan Kiramman"
+    },
+    {
+      "id": 6,
+      "nombre": "Silco",
+      "habilidadPrincipal": "Manipulación Estratégica",
+      "maxPoder": "Control sobre el Subsuelo",
+      "rango": "Jefe Criminal de Zaun",
+      "genero": "Masculino",
+      "descripcion": "El padrino del crimen de Zaun. Es el mentor y figura paterna de Jinx. Su objetivo es lograr que Zaun se independice de Piltover, utilizando la droga 'Shimmer' como arma política y de poder.",
+      "img": "https://i.postimg.cc/FH4F3kbk/preview.png",
+      "afiliacion": "Zaun / El Subsuelo"
+    },
+    {
+      "id": 7,
+      "nombre": "Mel Medarda",
+      "habilidadPrincipal": "Estrategia Política / Diplomacia",
+      "maxPoder": "Control del Consejo de Piltover",
+      "rango": "Consejera de Piltover",
+      "genero": "Femenino",
+      "descripcion": "Una política ambiciosa y astuta, exiliada de su noble casa. Es la principal mecenas de Jayce y la fuerza impulsora detrás de la aceptación de Hextech en Piltover, buscando poder e influencia.",
+      "img": "https://wiki.leagueoflegends.com/en-us/images/thumb/Mel_Render.png/1200px-Mel_Render.png",
+      "afiliacion": "Piltover / El Consejo"
+    },
+    {
+      "id": 8,
+      "nombre": "Heimerdinger",
+      "habilidadPrincipal": "Longevidad / Intelecto Superior",
+      "maxPoder": "Inventor de Tecnologías Clave",
+      "rango": "Profesor / Consejero Fundador",
+      "genero": "No Binario (Yordle)",
+      "descripcion": "Un Yordle (criatura mágica) y uno de los fundadores de Piltover. Es el científico más brillante y más viejo de la ciudad, pero teme a la magia y al Hextech, lo que lo pone en conflicto con Jayce.",
+      "img": "https://i.postimg.cc/0Nk3q9v3/heimerdinger.png",
+      "afiliacion": "Piltover / El Consejo"
+    },
+    {
+      "id": 9,
+      "nombre": "Vander",
+      "habilidadPrincipal": "Fuerza Sobrehumana",
+      "maxPoder": "La Garra del Subsuelo",
+      "rango": "Líder de Zaun (Pasado)",
+      "genero": "Masculino",
+      "descripcion": "La figura paterna de Vi y Jinx (Powder). Es un ex líder de la rebelión del Subsuelo que adoptó una postura pacifista para proteger a su gente. Es un hombre de honor y sacrificio.",
+      "img": "https://i.postimg.cc/MH2mqYRx/warwick-vander-design-evolution-v0-61xhdr4oia3e1.png",
+      "afiliacion": "Zaun / El Subsuelo"
+    },
+    {
+      "id": 10,
+      "nombre": "Marcus",
+      "habilidadPrincipal": "Manipulación Policial",
+      "maxPoder": "El Control de los Enforcers",
+      "rango": "Sheriff de Piltover",
+      "genero": "Masculino",
+      "descripcion": "El corrupto Sheriff de Piltover. Inicialmente un Enforcer, es sobornado y manipulado por Silco para hacer cumplir sus intereses, lo que lleva a la tensión constante entre Piltover y Zaun.",
+      "img": "https://i.postimg.cc/cCvGG0QM/marcuspreview.png",
+      "afiliacion": "Piltover / Enforcers"
+    },
+    {
+      "id": 11,
+      "nombre": "Singed",
+      "habilidadPrincipal": "Química / Experimentación",
+      "maxPoder": "Creación del 'Shimmer'",
+      "rango": "Científico de Zaun",
+      "genero": "Masculino",
+      "descripcion": "Un químico brillante pero perturbado que trabaja para Silco. Es el creador de la droga Shimmer. Sus experimentos son crueles e inhumanos, motivados por un intelecto frío y obsesivo.",
+      "img": "https://i.postimg.cc/FKb9TrZG/descareview.png",
+      "afiliacion": "Zaun / El Subsuelo (Silco)"
+    },
+    {
+      "id": 12,
+      "nombre": "Ekko",
+      "habilidadPrincipal": "Ingenio / Control del Tiempo",
+      "maxPoder": "Z-Drive (Manipulador de Tiempo)",
+      "rango": "Líder de los Firelights",
+      "genero": "Masculino",
+      "descripcion": "Un prodigio de Zaun, amigo de la infancia de Vi y Jinx. Después de la tragedia, se convierte en el líder de los Firelights, un grupo que protege a los inocentes del Subsuelo. Es rápido y estratégico.",
+      "img": "https://i.postimg.cc/bNMNJFrb/ddbf1ee26056d5e10084a3aeb87b3a05-removebg-preview.png",
+      "afiliacion": "Zaun / Los Firelights"
+    }
+  ]
+}
